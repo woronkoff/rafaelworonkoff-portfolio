@@ -1,6 +1,6 @@
 ## Rafael Woronkoff's Portfolio
 
-This repository contains the source code for the personal portfolio website of Rafael Woronkoff Montanha. This is a multi-page static website built with HTML and CSS to showcase his professional profile, projects, and contact information.
+This repository contains the source code for the my personal portfolio website. This is a multi-page static website built with HTML and CSS to showcase his professional profile, projects, and contact information.
 
 ## Overview
 The portfolio is designed to be a clean and professional representation of Rafael's skills as a developer. It provides an overview of his background, education, and showcases a variety of projects he has worked on.
